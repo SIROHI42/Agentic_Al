@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-google-genai
+google-generativeai
+pandas
+typing-extensions
+dotenv
